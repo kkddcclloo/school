@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="327623f2-7793-429e-a0f0-af82ac36d36f"
-ARG CADDYIndexPage="https://github.com/kkddcclloo/school/blob/master/web.zip"
+ARG CADDYIndexPage="https://github.com/kkddcclloo/school/releases/download/1/web.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
